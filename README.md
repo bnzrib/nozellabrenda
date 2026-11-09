@@ -2,13 +2,7 @@
   <p align="center"><img align="center" src="https://github.com/nozellabrenda/nozellabrenda/blob/main/assets/brenda_link.gif?raw=true" height="75px" /> Saudações!</p>
 </h2>
 
-- 🔭 I’m currently working as an **I.T. Assistant**
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and React.**
-
-- 🤝 I’m looking for help to **find an opportunity as a dev**
-
-- 📫 How to reach me **brenda.nozella@gmail.com**
+- 🤝 I’m looking for help to **find an opportunity as a PM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
